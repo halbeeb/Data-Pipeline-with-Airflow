@@ -37,7 +37,7 @@ Data Pipeline with Apache Airflow
 ## Airflow Data Pipeline
 
 ### Airflow DAG overview
-![Alt Text](https://github.com/KentHsu/Udacity-DEND/blob/main/Data%20Pipeline%20with%20Airflow/images/udac-example-dag.png)
+![Alt Text](https://github.com/halbeeb/Data-Pipeline-with-Airflow/blob/main/images/udac-example-dag.png)
 
 ### Operators
 
