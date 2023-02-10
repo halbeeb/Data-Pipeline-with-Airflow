@@ -59,7 +59,7 @@ Data Pipeline with Apache Airflow
 
 
 ## Database Schema
-![Alt Text](https://github.com/halbeeb/Data-Pipeline-with-Airflow/blob/main/images/udac-example-dag.png)
+![Alt Text](https://github.com/halbeeb/Data-Pipeline-with-Airflow/blob/main/images/Udacity_Data_Schema.png)
 
 
 # Data-Pipeline-with-Airflow
