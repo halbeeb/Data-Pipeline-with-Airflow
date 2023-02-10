@@ -59,7 +59,7 @@ Data Pipeline with Apache Airflow
 
 
 ## Database Schema
-![Alt Text](https://github.com/KentHsu/Udacity-DEND/blob/main/Data%20Pipeline%20with%20Airflow/images/Udacity_Data_Schema.png)
+![Alt Text](https://github.com/halbeeb/Data-Pipeline-with-Airflow/blob/main/images/udac-example-dag.png)
 
 
 # Data-Pipeline-with-Airflow
